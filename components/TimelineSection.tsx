@@ -91,6 +91,18 @@ const speakers2026 = [
     org: "Ubisoft",
     img: "/speakers/mickael-newton.png",
   },
+  {
+    name: "H.M. Hannatu Musawa ",
+    role: "Honourable Minister",
+    org: "Art, Culture, Tourism and Creative Economy",
+    img: "/speakers/hannatu-musawa.png",
+  },
+  {
+    name: "Matthew Kreutter",
+    role: "Director, Learning and Engagement",
+    org: "Games for Change",
+    img: "/speakers/matthew-kreutter.png",
+  },
 ];
 
 const speakers2025: any[] = [
